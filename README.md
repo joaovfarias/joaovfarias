@@ -11,8 +11,6 @@
   Here you’ll find my personal and university projects.
 </p>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-vitor-farias">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
