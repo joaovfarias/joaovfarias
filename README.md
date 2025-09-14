@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/joão-vitor-farias">
+  <a href="https://www.linkedin.com/in/joão-vitor-farias">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="https://portfolio-joaovfarias.vercel.app/">
