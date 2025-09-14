@@ -4,10 +4,14 @@
   <em>Software Engineer • Full-Stack Developer</em>
 </p>
 
+---
+
 <p align="center">
   I'm passionate about technology and creativity.  
   Here you’ll find my personal and university projects.
 </p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-vitor-farias">
@@ -21,11 +25,16 @@
   </a>
 </p>
 
+
+---
+
 ### 💻 Tech Stack Highlights
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfarias&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
 </p>
+
+---
 
 ### 🟩 Latest Commit Energy
 
