@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm João Vitor Farias 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Full-Stack Developer</em>
+  <em>Software Engineer • Backend Developer</em>
 </p>
 
 ---
